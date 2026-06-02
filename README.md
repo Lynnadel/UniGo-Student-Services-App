@@ -1,68 +1,46 @@
 # UniGo – Student Services Mobile Application
 
-## Project Overview
+UniGo is a mobile application designed to simplify university students' academic experience by providing a centralized platform for managing academic activities and university services.
 
-UniGo is a student-focused mobile application developed to simplify academic life by providing a centralized platform for university services. The application helps students manage their academic activities, monitor performance, and access important services through a single user-friendly interface.
+## Features
 
-## Key Features
-
-- GPA Calculation
-- Grade Tracking
-- Course Registration Support
-- Assignment Assistance
-- Academic Notifications
-- Student Services Access
-- User Authentication
-- Role-Based Access Control (RBAC)
-- Multi-Factor Authentication (MFA)
+- Course Registration
+- GPA Tracking
+- Academic Plan Management
+- Course Materials & Announcements
+- Calendar & Reminders
+- Attendance Tracking
+- Registration Appointment Scheduling
+- Secure Authentication & Access Control
+- Push Notifications
+- Student Profile Management
 
 ## Technologies Used
 
 - Flutter
-- Firebase
+- Dart
+- Firebase Authentication
+- Cloud Firestore
+- Firebase Storage
+- Firebase Cloud Messaging (FCM)
+- REST APIs
 - Figma
-- API Integration
 
 ## Security Features
 
-- Multi-Factor Authentication (MFA)
 - Role-Based Access Control (RBAC)
 - Firebase Security Rules
-- Secure User Authentication
-- Access Management Controls
-- Data Protection Mechanisms
+- Secure Authentication
+- Data Validation
+- Protected File Storage
 
-## My Contribution
+## Team
 
-I was responsible for the complete UI/UX design of the application using Figma, including:
+- Zaid Raed Ibrahim
+- Hamzah Ahmad Al-Syouf
+- Leen Adel Abdelghani
+- Ayham Ayman Khamees
 
-- User Interface Design
-- Screen Layout Design
-- User Experience Optimization
-- Design Consistency
-- Prototype Development
-- Usability Improvements
+## Project Status
 
-I also participated in:
-- Project Planning
-- Requirements Analysis
-- Application Testing
-- Team Collaboration
-
-## Team Information
-
-This project was developed by a team of 4 members as a Graduation Project.
-
-## Areas Related to Cybersecurity
-
-Although UniGo is primarily a student services application, the project included security-related concepts such as:
-
-- Authentication
-- Access Control
-- MFA
-- Security Rules Management
-- User Data Protection
-
-## Status
-
-Completed Graduation Project
+Completed as a university graduation project at the University of Jordan.
