@@ -17,12 +17,13 @@ UniGo is a mobile application designed to simplify university students' academic
 
 ## Technologies Used
 
+## Technologies Used
+
 - Flutter
 - Dart
 - Firebase Authentication
 - Cloud Firestore
 - Firebase Storage
-- Firebase Cloud Messaging (FCM)
 - REST APIs
 - Figma
 
